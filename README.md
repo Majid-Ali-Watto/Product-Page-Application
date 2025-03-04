@@ -41,8 +41,8 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/shopping-cart-app.git
-    cd shopping-cart-app
+    git clone https://github.com/Majid-Ali-Watto/Product-Page-Application.git
+    cd Product-Page-Application
     ```
 
 2. Install dependencies:
